@@ -17,19 +17,14 @@
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
 
 ## Technology & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Web-Django-informational?style=flat&logo=django&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&labelColor=181818&logoColor=white&color=050F2C)
 
 ### Social media accounts 📫
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/collinskoech11) 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/collinskoech__/) 
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Diana-nyamai) 
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/) 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/nyamai_diana) 
-<a href="https://profile-counter.glitch.me/Diana-nyamai/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/collinskoech11/count.svg" /></a>
+<a href="https://profile-counter.glitch.me/Diana-nyamai/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Diana-nyamai/count.svg" /></a>

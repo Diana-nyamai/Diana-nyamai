@@ -32,4 +32,4 @@
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/collinskoech__/) 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://collinskoechportfolio.web.app)
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/itskenyancoko) 
-<a href="https://profile-counter.glitch.me/collinskoech11/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/collinskoech11/count.svg" /></a>
+<a href="https://profile-counter.glitch.me/Diana-nyamai/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/collinskoech11/count.svg" /></a>

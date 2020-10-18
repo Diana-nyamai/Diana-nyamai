@@ -16,6 +16,7 @@
 [![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
 <h4>Check out <a href="https://collinskoechportfolio.web.app">My PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
+
 ## Technology & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
@@ -27,9 +28,9 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&labelColor=181818&logoColor=white&color=050F2C)
+
 ### Social media accounts 📫
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/collinskoech11) 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/collinskoech__/) 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://collinskoechportfolio.web.app)
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/itskenyancoko) 
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/nyamai_diana) 
 <a href="https://profile-counter.glitch.me/Diana-nyamai/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/collinskoech11/count.svg" /></a>

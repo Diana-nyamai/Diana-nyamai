@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 
+
 ### Social media accounts 📫
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Diana-nyamai) 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/) 

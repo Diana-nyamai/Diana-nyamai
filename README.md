@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Diana-nyamai's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Diana-nyamai&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 <!--github stats-->
-## #100DaysOfCode Round2
+## #100DaysOfCode
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=Diana-nyamai&column=7"/>
 <!--Trophies-->
 

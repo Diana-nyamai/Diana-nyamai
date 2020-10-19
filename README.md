@@ -13,7 +13,7 @@
 [![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
 [![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
 [![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
-<h4>Check out <a href="https://myportfoliodiananyamai.web.app/">My PORTFOLIO</a></h4>
+<h4>Check out <a href="https://myportfoliodiananyamai.web.app/" target="_blank">My PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
 
 ## Technology & Tools

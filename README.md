@@ -32,4 +32,4 @@
 <a href="https://web.facebook.com/diana.nyamai.5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anvesh duddu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_thoughts_in_frame_" height="30" width="40" /></a>
 
-
+<a href="https://profile-counter.glitch.me/collinskoech11/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/collinskoech11/count.svg" /></a>

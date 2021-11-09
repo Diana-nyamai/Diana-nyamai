@@ -1,12 +1,15 @@
 ## #365dayschallenge
-![Diana-nyamai's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Diana-nyamai&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
+| ![Diana-nyamai's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Diana-nyamai&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) | ![Diana's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diana-nyamai&theme=tokyonight) |
+| --- | --- |
 <!--github stats-->
+
 ## #100DaysOfCode
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=Diana-nyamai&column=7"/>
 <!--Trophies-->
 
 <img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana-nyamai&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
 <!--Most Used Languages-->
+
 
 
 [![organism:human](https://img.shields.io/badge/organism-human-%238D5524)](https://img.shields.io/badge/organism-human-%238D5524)

@@ -10,12 +10,19 @@
 <img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana-nyamai&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
 <!--Most Used Languages-->
 
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![ReactJS](https://img.shields.io/badge/-ReactJS-blueviolet)
+![Sass](https://img.shields.io/badge/-Sass-pink)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4)
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E)
+![Node.js](https://img.shields.io/badge/-Node.js-339933)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098)
+![Apollo Server](https://img.shields.io/badge/-Apollo_Server-311C87)
+![Apollo Client](https://img.shields.io/badge/-Apollo_Client-311C87)
 
-
-[![organism:human](https://img.shields.io/badge/organism-human-%238D5524)](https://img.shields.io/badge/organism-human-%238D5524)
-[![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
-[![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
-[![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
 <h4>Check out <a href="https://www.ndinda.me/" target="_blank">My PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
 

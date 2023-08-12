@@ -30,6 +30,7 @@
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&labelColor=181818&logoColor=white&color=050F2C)

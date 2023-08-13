@@ -35,6 +35,7 @@
 ![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwind&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=graphql&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 <br/><br/>

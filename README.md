@@ -26,7 +26,7 @@
 ![Apollo Client](https://img.shields.io/badge/-Apollo_Client-311C87)
 
 <h4>Check out <a href="https://www.ndinda.me/" target="_blank">My PORTFOLIO</a></h4>
-<h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
+<h4><a href="https://commits.top/kenya.html" target="_blank">Top Kenyan Contributors</a></h4>
 
 ## Technology & Tools
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)

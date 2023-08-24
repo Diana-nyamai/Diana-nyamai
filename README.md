@@ -40,6 +40,7 @@
 ![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=graphql&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 <br/><br/>
 
 ### Social media accounts 📫

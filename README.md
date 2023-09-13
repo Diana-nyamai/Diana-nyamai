@@ -25,7 +25,7 @@
 ![Apollo Server](https://img.shields.io/badge/-Apollo_Server-311C87)
 ![Apollo Client](https://img.shields.io/badge/-Apollo_Client-311C87)
 
-<h4>Check out <a href="https://www.ndinda.me/" target="_blank">My PORTFOLIO</a></h4>
+<h4>Check out <a href="https://ndindadiana.netlify.app/" target="_blank">My PORTFOLIO</a></h4>
 <h4><a href="https://committers.top/kenya" target="_blank">Top Kenyan Contributors</a></h4>
 
 ## Technology & Tools

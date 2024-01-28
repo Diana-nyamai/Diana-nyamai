@@ -1,4 +1,4 @@
-<h1 >HI there, I'm Diana Nyamai</h1>
+<h1 >Hi there, I'm Diana Nyamai</h1>
 
 ## #365dayschallenge
 | ![Diana-nyamai's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Diana-nyamai&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) | ![Diana's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diana-nyamai&theme=tokyonight) |

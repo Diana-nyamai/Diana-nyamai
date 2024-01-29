@@ -24,6 +24,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098)
 ![Apollo Server](https://img.shields.io/badge/-Apollo_Server-311C87)
 ![Apollo Client](https://img.shields.io/badge/-Apollo_Client-311C87)
+![Java](https://img.shields.io/badge/-Java-green)
 
 <h4>Check out <a href="https://ndindadiana.netlify.app/" target="_blank">My PORTFOLIO</a></h4>
 <h4><a href="https://committers.top/kenya" target="_blank">Top Kenyan Contributors</a></h4>
@@ -41,6 +42,7 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
+
 <br/><br/>
 
 ### Social media accounts 📫

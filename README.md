@@ -27,7 +27,7 @@
 ![Java](https://img.shields.io/badge/-Java-green)
 ![SpringBoot](https://img.shields.io/badge/-Springboot-339933)
 
-<h4>Check out <a href="https://ndindadiana.netlify.app/" target="_blank">My PORTFOLIO</a></h4>
+<h4>Check out <a href="https://ndindadiana.netlify.app/" target="_blank">My Portfolio</a></h4>
 <h4><a href="https://committers.top/kenya" target="_blank">Top Kenyan Contributors</a></h4>
 
 ## Technology & Tools

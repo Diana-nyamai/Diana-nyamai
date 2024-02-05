@@ -49,7 +49,7 @@
 ### Social media accounts 📫
 
 <p align="left" color:"#933ded";>
-<a href="https://twitter.com/ndinda_diana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
+<a href="https://twitter.com/ndinda_diana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/diana-nyamai-41694815a/?msgControlName=reply_to_sender&msgConversationId=6691689121624141826&msgOverlay=true" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
 
 

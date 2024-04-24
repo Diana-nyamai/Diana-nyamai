@@ -25,6 +25,8 @@
 ![Apollo Client](https://img.shields.io/badge/-Apollo_Client-311C87)
 ![Java](https://img.shields.io/badge/-Java-green)
 ![SpringBoot](https://img.shields.io/badge/-Springboot-339933)
+[![Apache Camel](https://img.shields.io/badge/-Apache%20Camel-orange)](https://camel.apache.org/)
+
 
 <h4>Check out <a href="https://ndindadiana.netlify.app/" target="_blank">My Portfolio</a></h4>
 <h4><a href="https://committers.top/kenya" target="_blank">Top Kenyan Contributors</a></h4>

@@ -1,56 +1,94 @@
-<h1 >Hi there, I'm Diana Nyamai</h1>
+### [![committers.top badge](https://user-badge.committers.top/worldwide/Diana-nyamai.svg)](https://user-badge.committers.top/worldwide/Diana-nyamai)
+### [![committers.top badge](https://user-badge.committers.top/kenya_private/Diana-nyamai.svg)](https://user-badge.committers.top/kenya_private/Diana-nyamai)
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Diana-nyamai&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
-| ![Diana-nyamai's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Diana-nyamai&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) | ![Diana's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diana-nyamai&theme=tokyonight) |
-| --- | --- |
-<!--github stats-->
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat" />
+</div>
 
-## #100DaysOfCode
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=Diana-nyamai&column=7"/>
-<!--Trophies-->
+<h1 align="center">Hello there! 👋 I'm Diana</h1>
 
-<img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana-nyamai&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
-<!--Most Used Languages-->
+<p align="center">
+  <i>Full Stack Developer • Cat Mom • Coffee Enthusiast</i>
+</p>
 
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![ReactJS](https://img.shields.io/badge/-ReactJS-blueviolet)
-![Sass](https://img.shields.io/badge/-Sass-pink)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E)
-![Node.js](https://img.shields.io/badge/-Node.js-339933)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098)
-![Apollo Server](https://img.shields.io/badge/-Apollo_Server-311C87)
-![Apollo Client](https://img.shields.io/badge/-Apollo_Client-311C87)
-![Java](https://img.shields.io/badge/-Java-green)
-![SpringBoot](https://img.shields.io/badge/-Springboot-339933)
-[![Apache Camel](https://img.shields.io/badge/-Apache%20Camel-orange)](https://camel.apache.org/)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diana-nyamai&theme=radical" />
+</p>
 
+---
 
-<h4>Check out <a href="https://ndindadiana.netlify.app/" target="_blank">My Portfolio</a></h4>
-<h4><a href="https://committers.top/kenya" target="_blank">Top Kenyan Contributors</a></h4>
+### 🌟 About Me
 
-## Technology & Tools
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwind&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=graphql&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
+💻 Passionate developer who loves turning coffee into clean code  
+🐱 Proud cat mom to my furry coding supervisor  
+🎀 Inspired by the Powerpuff Girls - intelligence, creativity, and strength  
+☕ Fueled by coffee and the occasional cat cuddle break  
+🌱 Currently exploring new technologies and growing my skills  
+💫 Dreaming of creating digital experiences that make people smile  
 
-<br/><br/>
+---
 
-### Social media accounts 📫
+### 🛠️ My Stack
 
-<p align="left" color:"#933ded";>
-<a href="https://twitter.com/ndinda_diana_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/diana-nyamai-41694815a/?msgControlName=reply_to_sender&msgConversationId=6691689121624141826&msgOverlay=true" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
 
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Diana-nyamai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+#### 📊 GitHub Stats 🔥
+[![Diana-nyamai's GitHub stats](https://readmestats.999857.xyz/api?username=Diana-nyamai&show_icons=true&theme=rose&border_radius=2&count_private=true&rank_icon=S&custom_title=☕%20Diana-nyamai's%20Github%20%Stats)](https://readmestats.999857.xyz/api?username=Diana-nyamai&show_icons=true&theme=rose&border_radius=2&count_private=true&rank_icon=S)
+
+### 💻 **My Languages**
+
+<div align="center" style="border: 3px solid #00FF00; border-radius:15px; padding:10px; background-color:#0d1117; display:flex; justify-content:space-between; gap:0;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana-nyamai&show_icons=true&theme=radical&layout=compact&border_radius=0&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3" width="33%" style="margin:0; padding:0;" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diana-nyamai&theme=radical&langs_count=100" width="33%" style="margin:0; padding:0;" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diana-nyamai&theme=radical&langs_count=100" width="33%" style="margin:0; padding:0;" />
+
+</div>
+
+---
+
+### 🐍 **GitHub Contribution Snake**
+![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Diana-nyamai&limit=5&theme=rose&combine_all_yearly_contributions=true)
+
+---
+
+### 😂 **Random Joke**
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+### 💡 **Programming Quotes**
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+
+---
+<p align="center">
+  <i>Thanks for stopping by! Let's build something amazing together! 💖</i>
+</p>
 

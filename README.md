@@ -72,7 +72,7 @@
 ---
 
 ### 😂 **Fun Fact about my Cat:**
-1. Ultimate code reviewer - she tests every feature & adding 'paw'some features aka Bugsby walking on the keyboard!🐾
+1. Ultimate code reviewer - He tests every feature & adding 'paw'some features aka Bugsby walking on the keyboard!🐾
 2. Supervisor Role - Chief Cuddle Officer & Bug Creator  
 3. Specialty - Napping! 
 4. Approval Rate - 100% (when treats are provided)

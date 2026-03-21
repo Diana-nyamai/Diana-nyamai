@@ -11,7 +11,7 @@
 <h1 align="center">Hello there! 👋 I'm Diana</h1>
 
 <p align="center">
-  <i>Full Stack Developer • Cat Mom • Coffee Enthusiast</i>
+  <i>Full Stack Developer • Cat Mom • Coffee</i>
 </p>
 
 <p align="center">

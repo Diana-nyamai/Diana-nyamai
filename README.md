@@ -23,7 +23,7 @@
 ### 🌟 About Me
 
 💻 Passionate developer who loves turning coffee into clean code  
-🐱 Proud cat mom to my furry coding supervisor  
+🐱 Proud cat mom to my furry coding supurr-visor  
 🎀 Inspired by the Powerpuff Girls - intelligence, creativity, and strength  
 ☕ Fueled by coffee and the occasional cat cuddle break  
 🌱 Currently exploring new technologies and growing my skills  

@@ -97,6 +97,6 @@
 
 ---
 <p align="center">
-  <i>Thanks for stopping by! Let's build something amazing together</i>
+  <i>Thanks for stopping by. Let's build something amazing together</i>
 </p>
 

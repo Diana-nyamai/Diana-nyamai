@@ -97,6 +97,6 @@
 
 ---
 <p align="center">
-  <i>Thanks for stopping by.</i>
+  <i>Thanks for stopping by.Ndinda Diana</i>
 </p>
 
